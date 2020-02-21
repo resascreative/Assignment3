@@ -4,7 +4,7 @@
 
 //Fortune Teller
 function tellFortune(jobTitle, geoLocation, partner, numKids) {
-    var future = 'You will be a ' + job + " in ' + location + 'and married to ' +
+    var future = 'You will be a ' + job + ' in ' + location + 'and married to ' +
    spouse + ' ' + ' with ' + Kids + ' kids.';
     console.log(future);
 }
