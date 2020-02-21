@@ -1,1 +1,3 @@
-function halfNumber()
+function halfNumber() {
+    let 
+}
